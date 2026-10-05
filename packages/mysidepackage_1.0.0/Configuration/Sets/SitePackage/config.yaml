@@ -1,0 +1,4 @@
+name: htl-rennweg/mysidepackage
+label: 'MySidePackage'
+dependencies:
+  - bootstrap-package/full
